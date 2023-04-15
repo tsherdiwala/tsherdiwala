@@ -1,16 +1,34 @@
-### Hi there 👋
+
+
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Tejas's LinkedIN" width="200px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
+</a>
+
+<br />
+<br />
+
+hi, i'm **Tejas Sherdiwala**, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion lies with bringing an idea to life and software allows me to mould ideas from around the world. it is my vision to dedicate myself towards the betterment of the community at large. hence i am extremely cautious about the experience, architecture, and code quality of the things i get a chance to shape.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="center" alt="GIF" src="data:image/jpeg;base64,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" width="200" />
+  
+- 💼 any freelance work? do reach, [email](mailto:tsherdiwala@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 <!--
-**tsherdiwala/tsherdiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**languages and tools:**  
 
-Here are some ideas to get you started:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
