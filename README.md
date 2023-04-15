@@ -1,19 +1,16 @@
 
-
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Tejas's LinkedIN" width="200px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
-</a>
-
-<br />
-<br />
-
-##### hi, i'm **Tejas Sherdiwala**, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion lies with bringing an idea to life and software allows me to mould ideas from around the world. it is my vision to dedicate myself towards the betterment of the community at large. hence i am extremely cautious about the experience, architecture, and code quality of the things i get a chance to shape.
+hi, i'm **Tejas Sherdiwala**, a passionate self-taught full stack web and mobile developer from india. my passion lies with bringing an idea to life and software allows me to mould ideas from around the world. it is my vision to dedicate myself towards the betterment of the community at large. hence i am extremely cautious about the experience, architecture, and code quality of the things i get a chance to shape.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   
 - 💼 any freelance work? do reach, [email](mailto:tsherdiwala@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Tejas's LinkedIN" width="100px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
+</a>
+
 
 <!--
 **languages and tools:**  
