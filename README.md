@@ -7,7 +7,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:tsherdiwala@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/tsherdiwala/">
   <img align="left" alt="Tejas's LinkedIN" width="100px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
 </a>
 
