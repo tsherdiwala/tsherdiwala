@@ -4,7 +4,7 @@ hi, i'm **Tejas Sherdiwala**, a passionate self-taught full stack web and mobile
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   
-- 💼 any freelance work? do reach, [email](mailto:tsherdiwala@gmail.com) :)
+- 💼 any work? do reach, [email](mailto:tsherdiwala@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 <a href="https://www.linkedin.com/in/tsherdiwala/">
